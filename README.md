@@ -1,2 +1,2 @@
-# BayesianTAR
-Bayesian Estimation of TAR
+# Bayesian-TAR
+ Bayesian Inference for TAR
